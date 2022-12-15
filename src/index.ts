@@ -120,9 +120,8 @@ router.post("/api/auth/*", (request: Request, env: Env) => {
 		],
 		secret: "4a4d5a44fa1703e3049fcdcbab548b7523504421d94405a2f47990586008d504",
 		trustHost: true,
-		
-		
 	}
+	//Comment Test
 
 	
 	
