@@ -1,0 +1,8 @@
+name = "one-click"
+compatibility_date = "2022-12-12"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "one-click"
+database_id = "c7790d91-91e9-46b1-a80c-7379de988097"
+preview_database_id="c7790d91-91e9-46b1-a80c-7379de988097"
